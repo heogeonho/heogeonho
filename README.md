@@ -2,7 +2,7 @@
   👋 Hi there 👋 
   
 
-  <br/> I'm currently majoring in industrial and information systems engineering. 
+  <br/> I'm majoring in industrial and information systems engineering. 
   <br/> I want to be a developer who creates things that benefit everyone.
 </div> 
 
