@@ -14,18 +14,18 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   &nbsp;
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
   &nbsp;
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </div>
 
 
