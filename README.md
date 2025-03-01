@@ -25,7 +25,7 @@ I'm majoring in industrial and information systems engineering.
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,firebase,aws" />
 </a>
 <br/>
 <a href="https://skillicons.dev">
@@ -42,7 +42,7 @@ I'm majoring in industrial and information systems engineering.
 - 2022 KDB 창업교육 프로그램 KDB산업은행 회장상 (2022.11)
 - 2022학년도 디스커버리학기 프로그래밍 경진대회 장려상 (2022.09)
   
-## Baekjoon
+## Baekjoon Tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjrjsgh1016)](https://solved.ac/gjrjsgh1016/)
 
