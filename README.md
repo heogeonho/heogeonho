@@ -25,7 +25,7 @@ I'm majoring in industrial and information systems engineering.
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws" />
 </a>
 <br/>
 <a href="https://skillicons.dev">
@@ -35,12 +35,16 @@ I'm majoring in industrial and information systems engineering.
 ## Project
 
 
-## Experience
 
-- 서울과학기술대학교 산업공학과 2023년 캡스톤경진대회 교내 은상 (2023.12)
-- KDB 창업교육 Booster 프로그램 대상 (2023.01)
-- 2022 KDB 창업교육 프로그램 KDB산업은행 회장상 (2022.11)
-- 2022학년도 디스커버리학기 프로그래밍 경진대회 장려상 (2022.09)
+## Experience
+- (24.06 ~ 24.12) LG U+ URECA 1기
+- (21.10 ~ 24.02) 서울과학기술대학교 학과 학술동아리 열정페이 개발세션리드
+
+## Awards
+- (2023.12) 서울과학기술대학교 산업공학과 2023년 캡스톤경진대회 교내 은상 
+- (2023.01) KDB 창업교육 Booster 프로그램 대상 
+- (2022.11) 2022 KDB 창업교육 프로그램 KDB산업은행 회장상
+- (2022.09) 2022학년도 디스커버리학기 프로그래밍 경진대회 장려상 
   
 ## Baekjoon Tier
 
