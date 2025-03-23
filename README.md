@@ -15,21 +15,21 @@ I'm majoring in industrial and information systems engineering.
 ## Skills
 
 #### MAIN SPEC
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+<a href="https://github.com/heogeonho">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" title="java,spring,mysql" />
 </a>
 
 #### TRIED
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,py" />
+<a href="https://github.com/heogeonho">
+  <img src="https://skillicons.dev/icons?i=js,py" title="javascript, python" />
 </a>
 <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws" />
+<a href="https://github.com/heogeonho">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws" title="nodejs, express, mongodb, aws"/>
 </a>
 <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+<a href="https://github.com/heogeonho">
+  <img src="https://skillicons.dev/icons?i=html,css,react" title="html, css, react"/>
 </a>
 
 ## Project
