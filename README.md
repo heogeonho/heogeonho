@@ -4,9 +4,6 @@
 I'm majoring in industrial and information systems engineering. 
 <br/> I want to be a developer who creates things that benefit everyone.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheogeonho&count_bg=%233F72AF&title_bg=%23112D4E&icon=googlekeep.svg&icon_color=%23F9F7F7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 [![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geonh1016@gmail.com)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gunoguno_/)
 [![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@geonh/posts) 
