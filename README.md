@@ -5,7 +5,6 @@ I'm majoring in industrial and information systems engineering.
 <br/> I want to be a developer who creates things that benefit everyone.
 
 [![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geonh1016@gmail.com)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gunoguno_/)
 [![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@geonh/posts) 
 
 
